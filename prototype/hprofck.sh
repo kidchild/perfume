@@ -4,7 +4,7 @@
 #
 
 PPROF_EXE=/opt/gperftools-2.0/bin/pprof
-TARGET_EXE=/opt/someexe/someexe
+TARGET_EXE=/opt/someexe/someexe         # point to the exe file
 PREFIX=someexe.profile
 
 # DON'T change following if no feature-add/bug-fix
